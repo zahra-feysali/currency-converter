@@ -2,7 +2,7 @@
 
 A simple, responsive currency converter built with **React**, **TypeScript**, and **CSS**.
 
-🔗 **Live Demo:** [View Demo](YOUR_GITHUB_PAGES_URL)
+🔗 **Live Demo:** [View Demo](https://zahra-feysali.github.io/currency-converter/)
 
 ## Features
 
@@ -29,8 +29,8 @@ A simple, responsive currency converter built with **React**, **TypeScript**, an
 ### Installation
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER
+git clone https://github.com/zahra-feysali/currency-converter.git
+cd currency-converter
 npm install
 npm run dev
 ```
